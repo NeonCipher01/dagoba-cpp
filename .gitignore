@@ -1,0 +1,15 @@
+# Build outputs
+build/
+*.o
+*.obj
+*.exe
+*.out
+demo
+dagoba_demo
+dagoba_tests
+
+# Editor/OS clutter
+.vscode/
+.vs/
+*.sublime-workspace
+.DS_Store
